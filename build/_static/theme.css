@@ -6,9 +6,21 @@
 #nprogress 
 .peg{display:block;position:absolute;right:0;width:100px;height:100%;-webkit-box-shadow:0 0 10px #0086af,0 0 5px #0086af;box-shadow:0 0 10px #0086af,0 0 5px #0086af;opacity:1;-webkit-transform:rotate(3deg) translateY(-4px);transform:rotate(3deg) translateY(-4px)}
 
-#nprogress .spinner{display:block;position:fixed;z-index:1031;top:15px;right:15px}
+#nprogress 
+.spinner{display:block;position:fixed;z-index:1031;top:15px;right:15px}
 
-#nprogress .spinner-icon{width:18px;height:18px;-webkit-box-sizing:border-box;box-sizing:border-box;border:2px solid transparent;border-top-color:#0086af;border-left-color:#0086af;border-radius:50%;-webkit-animation:nprogress-spinner .4s linear infinite;animation:nprogress-spinner .4s linear infinite}
+#nprogress 
+.spinner-icon{
+    width:18px;
+    height:18px;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    border:2px solid transparent;
+    border-top-color:#0086af;
+    border-left-color:#0086af;
+    border-radius:50%;
+    -webkit-animation:nprogress-spinner .4s linear infinite;
+    animation:nprogress-spinner .4s linear infinite}
 
 .nprogress-custom-parent{overflow:hidden;position:relative}
 .nprogress-custom-parent 
