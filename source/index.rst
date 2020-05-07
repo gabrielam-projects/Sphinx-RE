@@ -10,7 +10,8 @@ Reality Evolution - Documentación Demo
    :maxdepth: 10
    :caption: Contenido:
 
-   1-Introduction
-   2-ArquitecturaLogica
-   3-StackTech
-   4-Design
+   1.Introduction
+   2.ArquitecturaLogica
+   3.StackTech
+   4.Design
+   5.Steps

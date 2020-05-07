@@ -1,2 +1,0 @@
-Arquitectura Lógica del Sistema.
-*************************************
